@@ -1,4 +1,3 @@
-; Task 1: Fibonacci Sequence (First 10 Numbers)
 INCLUDE Irvine32.inc
 .code
 main PROC
